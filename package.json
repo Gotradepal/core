@@ -1,0 +1,12 @@
+{
+  "name": "core-load-balancer",
+  "version": "1.0.0",
+  "description": "Load Balancer Feature Unit Testing Setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
